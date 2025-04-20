@@ -1,89 +1,178 @@
-
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd189_large.png",simpson maniahd189
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=simpson_maniahd189
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/punto_movies_large.png",punto movies
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=punto_movies
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",beto 7hd
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=beto_7hd
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",a neflix01
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=a_neflix01
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cheli_cooper_large.png",cheli cooper
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cheli_cooper
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",cinemundo plus
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cinemundo_plus
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",peliculas mania
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=peliculas_mania
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",terror mania
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=terror_mania
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shay_saheed_large.png",shay saheed
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=shay_saheed
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd192_large.png",simpson maniahd192
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=simpson_maniahd192
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_juanmusic_large.png",a juanmusic
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=a_juanmusic
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",cienciaficcion
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cienciaficcion
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",cienciaficcion01
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cienciaficcion01
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/padre_de_familia1_large.png",padre de familia1
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=padre_de_familia1
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",futurama mania 
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=futurama_mania_
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/juan_13tv_large.png",juan 13tv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=juan_13tv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/agente_de_familia1_large.png",agente de familia1
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=agente_de_familia1
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tele29_large.png",tele29
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=tele29
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ysblf_large.png",ysblf
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=ysblf
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/0ueen_disney_large.png",0ueen disney
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=0ueen_disney
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/2312_large.png",2312
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=2312
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_large.png",ganja tv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=ganja_tv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/malcomhd_large.png",malcomhd
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=malcomhd
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",ganja tv 2
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=ganja_tv_2
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=shy_ch_eurydice
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmsterror_large.png",zonafilmsterror
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=zonafilmsterror
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=tufortunatv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmstvseries_large.png",zonafilmstvseries
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=zonafilmstvseries
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/rincondegago_large.png",rincondegago
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=rincondegago
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=radiofelove
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ovninews_large.png",ovninews
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=ovninews
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cityfm
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/chelito_sv_large.png",chelito sv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=chelito_sv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/nezradiovision_large.png",nezradiovision
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=nezradiovision
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=tvsalvision
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=felovetv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ficoatv_large.png",ficoatv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=ficoatv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/fundacion1410_large.png",fundacion1410
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=fundacion1410
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=lvpradiotv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/omega_tv_large.png",omega tv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=omega_tv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/telemedellin_large.png",telemedellin
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=telemedellin
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=tv777
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=vozdelcielotv
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=yhwhesmisalvacion
+#EXTINF:-1,Hustler HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26376
+#EXTINF:-1,Redlight HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26377
+#EXTINF:-1,Prıvate TV HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26378
+#EXTINF:-1,Dorcel HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26379
+#EXTINF:-1,Dorcel XXX HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26380
+#EXTINF:-1,Vivid Red HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26381
+#EXTINF:-1,Erox HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26382
+#EXTINF:-1,Erox XXX HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26383
+#EXTINF:-1,Penthouse Gold HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26384
+#EXTINF:-1,Penthouse Quickies HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26385
+#EXTINF:-1,Super One HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26386
+#EXTINF:-1,Babes TV HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26387
+#EXTINF:-1,XY Plus HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26388
+#EXTINF:-1,XY Max HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26389
+#EXTINF:-1,XY Mix HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26390
+#EXTINF:-1,Vivid TV Europe
+http://abmmedya.com:8080/erhansardogan/6580103092/26391
+#EXTINF:-1,DUSK!
+http://abmmedya.com:8080/erhansardogan/6580103092/26393
+#EXTINF:-1,Hustler TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26394
+#EXTINF:-1,XXL
+http://abmmedya.com:8080/erhansardogan/6580103092/26395
+#EXTINF:-1,Vixen HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26396
+#EXTINF:-1,X Desire
+http://abmmedya.com:8080/erhansardogan/6580103092/26397
+#EXTINF:-1,Reality Kings TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26398
+#EXTINF:-1,BraZZers TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26399
+#EXTINF:-1,Hot TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26402
+#EXTINF:-1,Venus TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26403
+#EXTINF:-1,Sextreme TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26404
+#EXTINF:-1,Sexy HOT
+http://abmmedya.com:8080/erhansardogan/6580103092/26405
+#EXTINF:-1,Meiden Van Holland Hard
+http://abmmedya.com:8080/erhansardogan/6580103092/26406
+#EXTINF:-1,Evil Angel
+http://abmmedya.com:8080/erhansardogan/6580103092/26407
+#EXTINF:-1,Pink Erotic
+http://abmmedya.com:8080/erhansardogan/6580103092/26408
+#EXTINF:-1,Pink Erotic 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26409
+#EXTINF:-1,Pink Erotic 3
+http://abmmedya.com:8080/erhansardogan/6580103092/26410
+#EXTINF:-1,Pink Erotic 4
+http://abmmedya.com:8080/erhansardogan/6580103092/26411
+#EXTINF:-1,Pink Erotic 5
+http://abmmedya.com:8080/erhansardogan/6580103092/26412
+#EXTINF:-1,Pink Erotic 6
+http://abmmedya.com:8080/erhansardogan/6580103092/26413
+#EXTINF:-1,Pink Erotic 7
+http://abmmedya.com:8080/erhansardogan/6580103092/26414
+#EXTINF:-1,Pink Erotic 8
+http://abmmedya.com:8080/erhansardogan/6580103092/26415
+#EXTINF:-1,Шалун TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26416
+#EXTINF:-1,Playboy Europe HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26419
+#EXTINF:-1,Playboy Europe
+http://abmmedya.com:8080/erhansardogan/6580103092/26420
+#EXTINF:-1,Blue Hustler HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26421
+#EXTINF:-1,Blue Hustler
+http://abmmedya.com:8080/erhansardogan/6580103092/26422
+#EXTINF:-1,Russian Night
+http://abmmedya.com:8080/erhansardogan/6580103092/26424
+#EXTINF:-1,Barely Legal TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26426
+#EXTINF:-1,Nuart TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26427
+#EXTINF:-1,O la la TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26429
+#EXTINF:-1,French Lover TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26430
+#EXTINF:-1,Pure Babes
+http://abmmedya.com:8080/erhansardogan/6580103092/26431
+#EXTINF:-1,Exxxotica TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26432
+#EXTINF:-1,Legal TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26433
+#EXTINF:-1,Naughty TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26434
+#EXTINF:-1,Fashion TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26435
+#EXTINF:-1,A3 Bikini TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26437
+#EXTINF:-1,Bang U
+http://abmmedya.com:8080/erhansardogan/6580103092/26438
+#EXTINF:-1,Balkan Erotic
+http://abmmedya.com:8080/erhansardogan/6580103092/26440
+#EXTINF:-1,Taboo
+http://abmmedya.com:8080/erhansardogan/6580103092/26441
+#EXTINF:-1,Oldtimer
+http://abmmedya.com:8080/erhansardogan/6580103092/26442
+#EXTINF:-1,Bangerz
+http://abmmedya.com:8080/erhansardogan/6580103092/26443
+#EXTINF:-1,Playhouse
+http://abmmedya.com:8080/erhansardogan/6580103092/26445
+#EXTINF:-1,Hot Pleasure
+http://abmmedya.com:8080/erhansardogan/6580103092/26446
+#EXTINF:-1,Milf TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26447
+#EXTINF:-1,Red XXX
+http://abmmedya.com:8080/erhansardogan/6580103092/26448
+#EXTINF:-1,Extreme
+http://abmmedya.com:8080/erhansardogan/6580103092/26449
+#EXTINF:-1,Lesbian Affair
+http://abmmedya.com:8080/erhansardogan/6580103092/26450
+#EXTINF:-1,Emanuelle
+http://abmmedya.com:8080/erhansardogan/6580103092/26451
+#EXTINF:-1,SEX ATION
+http://abmmedya.com:8080/erhansardogan/6580103092/26452
+#EXTINF:-1,Hot XXL HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26453
+#EXTINF:-1,Lust Pur TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26454
+#EXTINF:-1,Pinko Club
+http://abmmedya.com:8080/erhansardogan/6580103092/26455
+#EXTINF:-1,Pinko Club 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26456
+#EXTINF:-1,Dream Porn HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26457
+#EXTINF:-1,Free X TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26459
+#EXTINF:-1,Free X TV 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26460
+#EXTINF:-1,X-Dream TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26461
+#EXTINF:-1,X-Dream TV 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26462
+#EXTINF:-1,Balkan Hot
+http://abmmedya.com:8080/erhansardogan/6580103092/26463
+#EXTINF:-1,Balkan Hot 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26464
+#EXTINF:-1,Beate-Uhse.TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26465
+#EXTINF:-1,Passion XXX 1
+http://abmmedya.com:8080/erhansardogan/6580103092/26466
+#EXTINF:-1,Passion XXX 2
+http://abmmedya.com:8080/erhansardogan/6580103092/26467
+#EXTINF:-1,Fast Boyz
+http://abmmedya.com:8080/erhansardogan/6580103092/26468
+#EXTINF:-1,X-MO
+http://abmmedya.com:8080/erhansardogan/6580103092/26469
+#EXTINF:-1,Private TV
+http://abmmedya.com:8080/erhansardogan/6580103092/26470
+#EXTINF:-1,Erox
+http://abmmedya.com:8080/erhansardogan/6580103092/26471
+#EXTINF:-1,Penthouse Gold
+http://abmmedya.com:8080/erhansardogan/6580103092/26472
+#EXTINF:-1,Net XxX
+http://abmmedya.com:8080/erhansardogan/6580103092/26473
+#EXTINF:-1,X Bizarre
+http://abmmedya.com:8080/erhansardogan/6580103092/26474
+#EXTINF:-1,Playboy TV (NA)
+http://abmmedya.com:8080/erhansardogan/6580103092/26475
+#EXTINF:-1,Visit-X TV HD
+http://abmmedya.com:8080/erhansardogan/6580103092/26476
