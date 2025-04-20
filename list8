@@ -1,0 +1,99 @@
+
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", AE Mundo
+http://181.188.234.21:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", AXN
+http://181.188.234.21:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Animal Planet
+http://181.188.234.21:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", CNN Espanol
+http://181.188.234.21:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Canal Estrellas
+http://181.188.234.21:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cartoon Network
+http://181.188.234.21:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cinecanal
+http://181.188.234.21:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cinemax
+http://181.188.234.21:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Channel
+http://181.188.234.21:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery ID
+http://181.188.234.21:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Kids
+http://181.188.234.21:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Turbo
+http://181.188.234.21:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Disney Channel
+http://181.188.234.21:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Disney Jr
+http://181.188.234.21:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", E Entertainment
+http://181.188.234.21:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ECDF SD
+http://181.188.234.21:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN
+http://181.188.234.21:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 2
+http://181.188.234.21:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 3
+http://181.188.234.21:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 4
+http://181.188.234.21:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Ecuador TV
+http://181.188.234.21:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Ecuavisa
+http://181.188.234.21:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Enlace
+http://181.188.234.21:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", FX
+http://181.188.234.21:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Fox Sports 2
+http://181.188.234.21:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Fox Sports 3
+http://181.188.234.21:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", France 24
+http://181.188.234.21:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", GOL TV
+http://181.188.234.21:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", GamaTV
+http://181.188.234.21:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", HBO
+http://181.188.234.21:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", History Channel
+http://181.188.234.21:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", HomeandHealth
+http://181.188.234.21:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", MTV
+http://181.188.234.21:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Nat Geo
+http://181.188.234.21:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Nickelodeon
+http://181.188.234.21:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", RCN Novelas
+http://181.188.234.21:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", RTS
+http://181.188.234.21:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", STAR CHANNEL
+http://181.188.234.21:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Sony
+http://181.188.234.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Space
+http://181.188.234.21:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Studio Universal
+http://181.188.234.21:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", SyFy
+http://181.188.234.21:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TC Television
+http://181.188.234.21:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TCM
+http://181.188.234.21:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TNT
+http://181.188.234.21:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Teleamazonas
+http://181.188.234.21:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Telemundo
+http://181.188.234.21:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Universal
+http://181.188.234.21:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Warner
+http://181.188.234.21:8000/play/a03y/index.m3u8
