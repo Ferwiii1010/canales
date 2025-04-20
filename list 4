@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:-1,--- LISTA GRATIS www.achoAPPS.com y www.achoTV.com
-http://www.achoTV.com
-#EXTINF:-1,--- Visita www.achoAPPS.com y www.achoTV.com ---
 
 #EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", BIG Radio | HD www.achoAPPS.com
 http://iptv.niumedia.cl/live-streaming-hls/niumedia.m3u8
